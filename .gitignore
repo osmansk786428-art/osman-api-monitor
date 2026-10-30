@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.log
+reports/
+history.json
+*.backup
+*.audit-backup
+*.ui-backup
+*.pre-*
+*.before_*
